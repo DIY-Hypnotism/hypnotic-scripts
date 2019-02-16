@@ -1,0 +1,89 @@
+# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
+# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
+#
+# Licence: GPLv2 or any later version
+# 
+# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+
+#JC MindMix
+#it confuses, it overloads, it takes you there
+#by clarkejoey
+
+[[slnc 500]]Now you can relax awhile.
+[[slnc 3000]]Just let yourself feel comfortable and secure... comfortable and relaxed... relaxed... and... secure.
+[[slnc 500]]Listen awhile to the sound of my voice.
+[[slnc 500]]Listen awhile, but relax... if your mind wanders... don't mind that, it doesn't matter.
+[[slnc 500]]Listen awhile... and allow the sound of my voice to drift through your consciousness... as your limbs relax... your organs relax... your muscles... [[slnc 500]]relax.
+[[slnc 1000]]Relax.
+[[slnc 1500]]Relax.
+[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing as the sound of my voice drifts... [[slnc 500]]and floats... [[slnc 500]]gently [[slnc 500]]through your consciousness... [[slnc 750]]whether you are conscious of this... or unconscious of [[emph +]]that[[emph -]].
+[[slnc 1500]]Listen awhile.
+[[slnc 1500]]Listen.
+[[slnc 1500]]The sound of the music [[emph +]]also[[emph -]] relaxes you... each note vibrates deep... deep inside your mind, and your sensations... bringing relaxation with the sound of my voice.
+[[slnc 500]]Listen awhile to the music.
+[[slnc 500]]Listen awhile... and allow the sound of the music to drift through your consciousness... as your limbs relax... your organs relax... your muscles... [[slnc 500]]relax.
+[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing down as the sound of the music drifts... and floats... gently through your consciousness... [[slnc 500]]whether you are conscious of this... or unconscious of that.
+[[slnc 500]]voice... [[slnc 500]]music... [[slnc 500]]gently [[slnc 500]]floating through.
+[[slnc 3000]]Just let yourself be comfortable... and secure... [[slnc 500]]comfortable and relaxed... [[slnc 500]]relaxed... [[slnc 500]]and... secure.
+[[slnc 500]]Just listen... drifting.
+[[slnc 1500]]So comfortable... [[slnc 500]]so secure.
+[[slnc 1000]]Feel for your feelings.
+[[slnc 500]]Feel what you can feel.
+[[slnc 500]]Without trying... just reach gently at whatever sensations are there.
+[[slnc 500]]Feel for a feeling... there is a subtle sensation you can find to suit you.
+[[slnc 500]]or... it might already be obvious.
+[[slnc 500]]Feel for it... and feel [[emph +]]at[[emph -]] it... gently.
+[[slnc 1500]]It could be a sensation in your body... of glowing golden pleasure...
+[[slnc 500]]It could be a vision of your inner eye... of light and beauty...
+[[slnc 500]]It could be a scent imprinted on your memory... of peace and contentment...
+[[slnc 500]]It could be a soft hum... hum... humming... [[slnc 500]]of spirit behind sound...
+[[slnc 500]]It could even be a taste... stored in remembrance... a taste of enrichment and delight.
+[[slnc 1500]]Feel for it... without trying too hard... just let it flow... [[slnc 500]]and float... [[slnc 500]]and drift... [[slnc 500]]gently... [[slnc 500]]softly... [[slnc 500]]into your consciousness.
+[[slnc 500]]Gently drifting... with the sound of my voice... with the sound of the music.
+[[slnc 500]]Feel for it... and feel it... softly.
+[[slnc 500]]Listen awhile... and allow the subtle sensation to drift across your consciousness... as your limbs relax... your organs relax... your muscles... relax.
+[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing as the subtle sensation drifts... and floats... gently through your consciousness... [[slnc 500]]whether you are conscious of this... or unconscious of [[emph +]]that[[emph -]].
+[[slnc 2500]]Very good.
+[[slnc 1750]][[emph +]]Very[[emph -]] good.
+[[slnc 2500]]Can you become conscious of consciousness?
+[[slnc 500]]Again... gently... think about your thought.
+[[slnc 500]]What [[emph +]]are[[emph -]] you thinking?
+[[slnc 1500]]What [[emph +]]is[[emph -]] thinking... meaning, when is thought happening?
+[[slnc 1500]][[emph +]]What[[emph -]] is thinking... meaning, what is the [[emph +]]agent[[emph -]] of thought?
+[[slnc 1500]]What is [[emph +]]thinking[[emph -]]... meaning, what is the [[emph +]]nature[[emph -]] of thought?
+[[slnc 2000]]Maybe there are answers... maybe not.
+[[slnc 1500]]Maybe the journey is more important than the destination... and maybe there [[emph +]]is[[emph -]] no destination.
+[[slnc 500]]So consider consideration... think about thought... with your mind, examine your mind, and never mind if your mind wanders... never wonder if wandering matters... think about thinking... gently... contemplate contemplation... mildly... meditate on meditation... softly... and never mind... it doesn't matter.
+[[slnc 500]]Relax awhile... allow the thoughts of thinking to drift through your consciousness... as your limbs relax... your organs relax... your muscles... relax.
+[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing as the thoughts of thinking drift... and float... gently through your consciousness... [[slnc 1500]]whether you are conscious of this... or unconscious of that.
+[[slnc 500]]The sound of my voice...
+[[slnc 500]]The sound of the music...
+[[slnc 500]]Subtle sensations...
+[[slnc 500]]Thoughts about thinking.
+[[slnc 1500]]All to relax... [[slnc 500]]all to soften... [[slnc 500]]sweeten... and [[slnc 500]]relax your mind.
+[[slnc 2000]]Now... consider gravity.
+[[slnc 500]]Consider the pressure of your body, against the surface where you are resting.
+[[slnc 500]]Feel how your flesh is pressed together.
+[[slnc 500]]Feel how the surface is pressed down.
+[[slnc 500]]Be aware of that feeling.
+[[slnc 500]]Leave your awareness on it... and allow gravity to draw your awareness down... softly and slowly... and firm and strong.
+[[slnc 500]]Relax awhile... and allow gravity to draw your consciousness down... down... as your limbs relax... your organs relax... your muscles... relax... down.
+[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... drawing down... and floating down... gently down your consciousness... [[slnc 500]]whether you are conscious of this... or unconscious of [[emph +]]that[[emph -]].
+[[slnc 500]]The sound of my voice...
+[[slnc 500]]The sound of the music...
+[[slnc 500]]Subtle sensations...
+[[slnc 500]]Thoughts about thinking...
+[[slnc 500]]And gentle... gravity.
+[[slnc 1500]]All to relax down... all to soften down... sweeten down... and relax your mind down... down.
+[[slnc 500]]down... [[slnc 500]]down... [[slnc 750]]down.
+[[slnc 1000]]As your limbs relax... your organs relax... your muscles... relax... down... [[slnc 1500]]down... [[slnc 2000]]down.
+[[slnc 1500]]Each and every cell... [[slnc 500]]each and every fiber... [[slnc 500]]every single nerve... slowing down... [[slnc 500]]drawing down... and floating [[slnc 500]]down... gently... down your consciousness... [[slnc 500]]whether you are conscious of that... or unconscious of this.
+[[slnc 500]]whether you are conscious of this... or unconscious of that.
+[[slnc 500]]of this... or that.
+[[slnc 500]]or this... [[slnc 500]]or that.
+[[slnc 500]]or this... or [[slnc 500]]that.
+[[slnc 500]]this... or that...
+[[slnc 500]]this... [[slnc 500]]that...
+[[slnc 500]]this...
+[[slnc 3500]]
+
