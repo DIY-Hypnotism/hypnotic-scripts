@@ -1,10 +1,15 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
+# Name: Long Island
+# Licence: GPLv2 or later version
+# Description:
+#    Imagine you are gentle moving around a tropical island.
 #
-# Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Created by:
+#    Unknown
 #
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 [[slnc 10000]]
 In a moment %NAME% I'm going to ask you to imagine certain things...

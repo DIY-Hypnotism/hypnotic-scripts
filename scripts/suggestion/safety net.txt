@@ -1,32 +1,19 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
-#
-# Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
-#
-# Instant - Safety Net:
-# ===============================================================================
-#
-#
-# Description:	This is part of a modular approach to hypnotic script assembly.
-#		This sub-script is for setting in place an emergency awake command
-#		in case the program sticks, the subject zones out and doesn't hear
-#		the program, programmed to revert through posthypnotic, save them 
-#		from danger.  It is also sets a no activity timeout for 15 minutes.
-#
+# Name: Safety Net
+# Licence: GPLv2 or later version
+# Description:
+#    Set in place an emergency awake command in case the program sticks,
+#    the subject zones out and doesn't hear the program,
+#    programmed to revert through posthypnotic, save them 
+#    from danger.  It is also sets a no activity timeout for 15 minutes.
 #
 # Created by:
-#			Interstel@tampabayadult.net
+#    Interstel@tampabayadult.net
 #
-# Modifications:
-#			Interstel@tampabayadult.net
+# Modified by:
+#    Interstel@tampabayadult.net
+#    Daniel Platt
 #
-# Revision History:
-#			1.0	07/18/2005
-#			1.5	07/20/2005
-#			2.0	09/28/2005
-#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 %NAME% I am going to reinforce an existing [[emph +]]trigger[[emph -]] or teach you a new [[emph +]]trigger[[emph -]] for emergencies right [[emph +]]now.[[emph -]]   [[slnc 1000]]
 %NAME%, the trigger is called [[emph +]]revert [[slnc 200]] to [[slnc 200]] normal[[emph -]] [[slnc 200]].   [[slnc 2000]]

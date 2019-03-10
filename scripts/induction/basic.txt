@@ -1,12 +1,15 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
+# Name: Basic Quick
+# Licence: GPLv2 or later version
+# Description:
+#    Induces hypnosis using relaxation
 #
-# Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
-
-#Basic quick induction
-#Originally by Pause88
+# Created by:
+#    Pause88
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 Now feel yourself become twice as relaxed... twice as deep... just let go...
 Turn loose now... relax...

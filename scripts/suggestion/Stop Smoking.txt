@@ -1,8 +1,15 @@
-# Source: https://en.wikibooks.org/wiki/Hypnosis/Scripts/Stop_Smoking
-#
+# Name: Stop Smoking
 # Licence: Creative Commons Attribution-ShareAlike License
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Description:
+#    Help you stop smoking by imagining yourself as a non-smoker
+#
+# Created by:
+#    Unknown
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://www.diyhypnotism.com/
 
 You have decided to quit smoking ... and the way that you are going to quit smoking today, is simply to relax ... that’s right you’re going to slow down, relax, and just let everything go ... and take this time ... that you’ve chosen for yourself ... to feel comfortable, relax, and totally at ease ... you have no place else to be right now ... and nothing else to do ... you have selected this time to be here ... so just let everything go ... leave all bothersome thoughts behind ... and take this time that you’ve chosen to be here ... to be completely relaxed ... the more you allow yourself to relax ... the closer you are to becoming a nonsmoker ...
 

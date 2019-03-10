@@ -1,9 +1,15 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
+# Name: Long
+# Licence: GPLv2 or later version
+# Description:
+#    Induces hypnosis by focusing on breathing and using awareness
 #
-# Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Created by:
+#    Unknown
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 Just make yourself comfortable %NAME%... and close your eyes now.
 just separate your hands... and let them lie loosely in your lap... or by your sides, if that's more comfortable.

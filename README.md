@@ -17,7 +17,8 @@ For more details guide please see Apple's guide: [Overview of Embedded Speech Co
 
 ## Licence
 
-Each file should have a header that states it source and licence that it was acquired under.
+Each file should have a header that states it licence.
+Source and original licence (if different) will be in the commit message.
 
 ## Pull Requests
 

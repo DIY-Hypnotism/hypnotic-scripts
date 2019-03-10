@@ -1,13 +1,15 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
-#
+# Name: JC MindMix
 # Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
-
-#JC MindMix
-#it confuses, it overloads, it takes you there
-#by clarkejoey
+# Description:
+#    Induces hypnosis by confusing, overloading and it takes you there
+#
+# Created by:
+#    clarkejoey
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 [[slnc 500]]Now you can relax awhile.
 [[slnc 3000]]Just let yourself feel comfortable and secure... comfortable and relaxed... relaxed... and... secure.

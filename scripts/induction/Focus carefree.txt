@@ -1,3 +1,16 @@
+# Name: Carefree Focusing
+# Licence: Public Domain
+# Description:
+#    Induces hypnosis by getting you breath deeply and relax
+#
+# Created by:
+#    Unknown
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://www.diyhypnotism.com/
+
 I just want you to sit back, and begin focusing on my words...
 Just start focusing on what I am saying [[slnc 500]]
 listen to my soothing voice...[[slnc 500]]

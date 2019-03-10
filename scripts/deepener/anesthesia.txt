@@ -1,11 +1,15 @@
-# Repo: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
-# File: https://sourceforge.net/projects/vhypno/files/latest/download?source=files
+# Name: Anesthesia
+# Licence: GPLv2 or later version
+# Description:
+#    Imagine you are breathing in anesthetics
 #
-# Licence: GPLv2 or any later version
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Created by:
+#    EuSouOvo
 #
-#### Anesthesia: A humble attempt by EuSouOvo
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
 Now I want you do do something for me. [[slnc 500]]
 I want you to imagine... that you are now breething odorless anesthesia...

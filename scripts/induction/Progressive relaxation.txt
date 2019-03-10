@@ -1,8 +1,16 @@
-# Source: https://en.wikibooks.org/wiki/Hypnosis/Scripts/Progressive_relaxation
-#
+# Name: Progressive Relaxation
 # Licence: Creative Commons Attribution-ShareAlike License
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Description:
+#    Listen to my voice and relax
+#
+# Created by:
+#    Unknown
+#
+# Modified by:
+#    FollowTheWatch55
+#    Daniel Platt
+#
+# Web: https://en.wikibooks.org/wiki/Hypnosis/Scripts/Progressive_relaxation
 
 Ok %NAME%, close your eyes and just relax...
 become aware of you breathing... 

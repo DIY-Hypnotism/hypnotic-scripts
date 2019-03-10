@@ -1,8 +1,15 @@
-# Source: https://en.wikibooks.org/wiki/Hypnosis/Scripts/Confidence_in_Company
-#
+# Name: Confidence in Company 
 # Licence: Creative Commons Attribution-ShareAlike License
-# 
-# If you wish to contact me about this file, then do so via https://www.diyhypnotism.com/
+# Description:
+#    Improve your confidence when in the company of other people
+#
+# Created by:
+#    Unknown
+#
+# Modified by:
+#    Daniel Platt
+#
+# Web: https://en.wikibooks.org/wiki/Hypnosis/Scripts/Confidence_in_Company
 
 As you go deeper relaxed¦ you will remain more relaxed... 
 whenever you are in the presence of other people... 
