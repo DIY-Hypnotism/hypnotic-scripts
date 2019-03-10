@@ -11,8 +11,8 @@
 #
 # Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
-[[slnc 10000]]
-You have completely discarded any thoughts of failure that you used to have %name%.
+[[slnc 2000]]
+You have completely discarded any thoughts of failure that you used to have, %name%.
 You have no unnecessary fear of failure.
 You have no unnecessary anxiety about things you want to do.
 You find it easy to discard negative thoughts and attitudes about yourself.
