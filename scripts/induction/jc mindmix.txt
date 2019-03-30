@@ -11,7 +11,7 @@
 #
 # Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
-[[slnc 500]]Now you can relax awhile.
+[[slnc 500]]Now you can relax a while.
 [[slnc 3000]]Just let yourself feel comfortable and secure... comfortable and relaxed... relaxed... and... secure.
 [[slnc 500]]Listen awhile to the sound of my voice.
 [[slnc 500]]Listen awhile, but relax... if your mind wanders... don't mind that, it doesn't matter.
@@ -24,7 +24,7 @@
 [[slnc 1500]]The sound of the music [[emph +]]also[[emph -]] relaxes you... each note vibrates deep... deep inside your mind, and your sensations... bringing relaxation with the sound of my voice.
 [[slnc 500]]Listen awhile to the music.
 [[slnc 500]]Listen awhile... and allow the sound of the music to drift through your consciousness... as your limbs relax... your organs relax... your muscles... [[slnc 500]]relax.
-[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing down as the sound of the music drifts... and floats... gently through your consciousness... [[slnc 500]]whether you are conscious of this... or unconscious of that.
+[[slnc 500]]Each and every cell... each and every fibre... every single nerve... slowing down... relaxing down as the sound of the music drifts... and floats... gently through your consciousness... [[slnc 500]]whether you are conscious of this... or unconscious of that.
 [[slnc 500]]voice... [[slnc 500]]music... [[slnc 500]]gently [[slnc 500]]floating through.
 [[slnc 3000]]Just let yourself be comfortable... and secure... [[slnc 500]]comfortable and relaxed... [[slnc 500]]relaxed... [[slnc 500]]and... secure.
 [[slnc 500]]Just listen... drifting.
@@ -55,9 +55,9 @@
 [[slnc 1500]]What is [[emph +]]thinking[[emph -]]... meaning, what is the [[emph +]]nature[[emph -]] of thought?
 [[slnc 2000]]Maybe there are answers... maybe not.
 [[slnc 1500]]Maybe the journey is more important than the destination... and maybe there [[emph +]]is[[emph -]] no destination.
-[[slnc 500]]So consider consideration... think about thought... with your mind, examine your mind, and never mind if your mind wanders... never wonder if wandering matters... think about thinking... gently... contemplate contemplation... mildly... meditate on meditation... softly... and never mind... it doesn't matter.
+[[slnc 500]]So consider consideration... think about though... with your mind, examine your mind, and never mind if your mind wanders... never wonder if wandering matters... think about thinking... gently... contemplate contemplation... mildly... meditate on meditation... softly... and never mind... it doesn't matter.
 [[slnc 500]]Relax awhile... allow the thoughts of thinking to drift through your consciousness... as your limbs relax... your organs relax... your muscles... relax.
-[[slnc 500]]Each and every cell... each and every fiber... every single nerve... slowing down... relaxing as the thoughts of thinking drift... and float... gently through your consciousness... [[slnc 1500]]whether you are conscious of this... or unconscious of that.
+[[slnc 500]]Each and every cell... each and every fibre... every single nerve... slowing down... relaxing as the thoughts of thinking drift... and float... gently through your consciousness... [[slnc 1500]]whether you are conscious of this... or unconscious of that.
 [[slnc 500]]The sound of my voice...
 [[slnc 500]]The sound of the music...
 [[slnc 500]]Subtle sensations...

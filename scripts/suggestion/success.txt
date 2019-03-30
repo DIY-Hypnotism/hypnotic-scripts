@@ -11,7 +11,6 @@
 #
 # Web: https://sourceforge.net/projects/vhypno/files/Virtual%20Hypnotist/
 
-[[slnc 2000]]
 You have completely discarded any thoughts of failure that you used to have, %name%.
 You have no unnecessary fear of failure.
 You have no unnecessary anxiety about things you want to do.
@@ -58,7 +57,7 @@ You possess great energy... the more you use it... the more you have.
 You are naturally enthusiastic and enthusiasm gives you energy.
 You are a natural optimist... you can always turn a setback to an advantage.
 You are a dynamic person and you pursue my goals energetically.
-You always think of what you want to happen.
+You always think about what you want to happen.
 You always think of how you want to be.
-You look forward to beneficial change and you enjoy beneficial change.
+You look forward to a beneficial change and you enjoy the beneficial change.
 You do everything that is necessary to achieve your goals.
