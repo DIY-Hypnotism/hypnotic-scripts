@@ -1,4 +1,4 @@
-# Name: Default
+# Name: Wake from hypnosis
 # Licence: GPLv2 or later version
 # Description:
 #    Re-enforce susceptibility to hypnosis and wake you from hypnosis, feeling better than before.

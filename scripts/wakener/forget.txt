@@ -1,4 +1,4 @@
-# Name: Forget
+# Name: Wake and Forget
 # Licence: GPLv2 or later version
 # Description:
 #    Forget that you just used hypnosis
