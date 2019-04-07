@@ -1,10 +1,8 @@
 # Name: Safety Net
 # Licence: GPLv2 or later version
 # Description:
-#    Set in place an emergency awake command in case the program sticks,
-#    the subject zones out and doesn't hear the program,
-#    programmed to revert through posthypnotic, save them 
-#    from danger.  It is also sets a no activity timeout for 15 minutes.
+#    Set in place an emergency command to revert through posthypnotic, 
+#    save them from danger. The trigger is "Revert to normal"
 #
 # Created by:
 #    Interstel@tampabayadult.net
